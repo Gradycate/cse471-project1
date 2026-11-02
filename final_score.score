@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+    <instrument instrument="Drums">
+        <note measure="1" beat="1" duration="1" drum="kick"/>
+        <note measure="1" beat="3" duration="1" drum="hihat"/>
+
+        <note measure="2" beat="1" duration="1" drum="kick"/>
+        <note measure="2" beat="3" duration="1" drum="hihat"/>
+
+        <note measure="3" beat="1" duration="1" drum="kick"/>
+        <note measure="3" beat="3" duration="1" drum="hihat"/>
+        <note measure="3" beat="3" duration="1" drum="snare"/>
+
+        <note measure="4" beat="1" duration="1" drum="kick"/>
+        <note measure="4" beat="3" duration="1" drum="hihat"/>
+        <note measure="4" beat="3" duration="1" drum="snare"/>
+        <note measure="4" beat="4" duration="1" drum="tom1"/>
+
+        <note measure="5" beat="1" duration="1" drum="kick"/>
+        <note measure="5" beat="3" duration="1" drum="kick"/>
+        <note measure="5" beat="2" duration="1" drum="snare"/>
+        <note measure="5" beat="4" duration="1" drum="snare"/>
+        <note measure="5" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="5" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="5" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="5" beat="4" duration="0.5" drum="hihat"/>
+
+        <note measure="6" beat="1" duration="1" drum="kick"/>
+        <note measure="6" beat="3" duration="1" drum="kick"/>
+        <note measure="6" beat="2" duration="1" drum="snare"/>
+        <note measure="6" beat="4" duration="1" drum="snare"/>
+        <note measure="6" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="6" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="6" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="6" beat="4" duration="0.5" drum="hihat"/>
+
+        <note measure="7" beat="1" duration="1" drum="kick"/>
+        <note measure="7" beat="3" duration="1" drum="kick"/>
+        <note measure="7" beat="2" duration="1" drum="snare"/>
+        <note measure="7" beat="4" duration="1" drum="snare"/>
+        <note measure="7" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="7" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="7" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="7" beat="4" duration="0.5" drum="hihat"/>
+
+        <note measure="8" beat="1" duration="1" drum="kick"/>
+        <note measure="8" beat="3" duration="1" drum="kick"/>
+        <note measure="8" beat="2" duration="1" drum="snare"/>
+        <note measure="8" beat="4" duration="1" drum="snare"/>
+        <note measure="8" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="8" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="8" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="8" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="8" beat="3.5" duration="0.5" drum="tom1"/>
+        <note measure="8" beat="4.5" duration="0.5" drum="tom2"/>
+
+        <note measure="9" beat="1" duration="1" drum="kick"/>
+        <note measure="9" beat="3" duration="1" drum="kick"/>
+        <note measure="9" beat="2" duration="1" drum="snare"/>
+        <note measure="9" beat="4" duration="1" drum="snare"/>
+        <note measure="9" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="9" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="9" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="9" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="9" beat="1" duration="2" drum="cymbal"/>
+
+        <note measure="10" beat="1" duration="1" drum="kick"/>
+        <note measure="10" beat="3" duration="1" drum="kick"/>
+        <note measure="10" beat="2" duration="1" drum="snare"/>
+        <note measure="10" beat="4" duration="1" drum="snare"/>
+        <note measure="10" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="10" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="10" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="10" beat="4" duration="0.5" drum="hihat"/>
+
+        <note measure="11" beat="1" duration="1" drum="kick"/>
+        <note measure="11" beat="3" duration="1" drum="kick"/>
+        <note measure="11" beat="2" duration="1" drum="snare"/>
+        <note measure="11" beat="4" duration="1" drum="snare"/>
+        <note measure="11" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="11" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="11" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="11" beat="4" duration="0.5" drum="hihat"/>
+
+        <note measure="12" beat="1" duration="1" drum="kick"/>
+        <note measure="12" beat="3" duration="1" drum="kick"/>
+        <note measure="12" beat="2" duration="1" drum="snare"/>
+        <note measure="12" beat="4" duration="1" drum="snare"/>
+        <note measure="12" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="12" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="12" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="12" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="12" beat="3.5" duration="0.5" drum="tom1"/>
+        <note measure="12" beat="4.5" duration="0.5" drum="tom2"/>
+
+        <note measure="13" beat="1" duration="1" drum="kick"/>
+        <note measure="13" beat="3" duration="1" drum="kick"/>
+        <note measure="13" beat="2" duration="1" drum="snare"/>
+        <note measure="13" beat="4" duration="1" drum="snare"/>
+        <note measure="13" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="13" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="13" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="13" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="13" beat="1" duration="2" drum="cymbal"/>
+        <note measure="13" beat="2.5" duration="0.5" drum="cowbell"/>
+
+        <note measure="14" beat="1" duration="1" drum="kick"/>
+        <note measure="14" beat="3" duration="1" drum="kick"/>
+        <note measure="14" beat="2" duration="1" drum="snare"/>
+        <note measure="14" beat="4" duration="1" drum="snare"/>
+        <note measure="14" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="14" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="14" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="14" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="14" beat="2.5" duration="0.5" drum="cowbell"/>
+        <note measure="14" beat="4.5" duration="0.5" drum="conga1"/>
+
+        <note measure="15" beat="1" duration="1" drum="kick"/>
+        <note measure="15" beat="3" duration="1" drum="kick"/>
+        <note measure="15" beat="2" duration="1" drum="snare"/>
+        <note measure="15" beat="4" duration="1" drum="snare"/>
+        <note measure="15" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="15" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="15" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="15" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="15" beat="2.5" duration="0.5" drum="cowbell"/>
+
+        <note measure="16" beat="1" duration="1" drum="kick"/>
+        <note measure="16" beat="3" duration="1" drum="kick"/>
+        <note measure="16" beat="2" duration="1" drum="snare"/>
+        <note measure="16" beat="4" duration="1" drum="snare"/>
+        <note measure="16" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="16" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="16" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="16" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="16" beat="3.5" duration="0.5" drum="tom1"/>
+        <note measure="16" beat="4.5" duration="0.5" drum="tom2"/>
+        <note measure="16" beat="2.5" duration="0.5" drum="cowbell"/>
+        <note measure="16" beat="4.5" duration="0.5" drum="conga1"/>
+
+        <note measure="17" beat="1" duration="1" drum="kick"/>
+        <note measure="17" beat="3" duration="1" drum="kick"/>
+        <note measure="17" beat="2" duration="1" drum="snare"/>
+        <note measure="17" beat="4" duration="1" drum="snare"/>
+        <note measure="17" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="17" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="17" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="17" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="17" beat="1" duration="2" drum="cymbal"/>
+        <note measure="17" beat="2.5" duration="0.5" drum="cowbell"/>
+
+        <note measure="18" beat="1" duration="1" drum="kick"/>
+        <note measure="18" beat="3" duration="1" drum="kick"/>
+        <note measure="18" beat="2" duration="1" drum="snare"/>
+        <note measure="18" beat="4" duration="1" drum="snare"/>
+        <note measure="18" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="18" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="18" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="18" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="18" beat="2.5" duration="0.5" drum="cowbell"/>
+        <note measure="18" beat="4.5" duration="0.5" drum="conga1"/>
+
+        <note measure="19" beat="1" duration="1" drum="kick"/>
+        <note measure="19" beat="3" duration="1" drum="kick"/>
+        <note measure="19" beat="2" duration="1" drum="snare"/>
+        <note measure="19" beat="4" duration="1" drum="snare"/>
+        <note measure="19" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="19" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="19" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="19" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="19" beat="2.5" duration="0.5" drum="cowbell"/>
+
+        <note measure="20" beat="1" duration="1" drum="kick"/>
+        <note measure="20" beat="3" duration="1" drum="kick"/>
+        <note measure="20" beat="2" duration="1" drum="snare"/>
+        <note measure="20" beat="4" duration="1" drum="snare"/>
+        <note measure="20" beat="1" duration="0.5" drum="hihat"/>
+        <note measure="20" beat="2" duration="0.5" drum="hihat"/>
+        <note measure="20" beat="3" duration="0.5" drum="hihat"/>
+        <note measure="20" beat="4" duration="0.5" drum="hihat"/>
+        <note measure="20" beat="3.5" duration="0.5" drum="tom1"/>
+        <note measure="20" beat="4.5" duration="0.5" drum="tom2"/>
+        <note measure="20" beat="2.5" duration="0.5" drum="cowbell"/>
+        <note measure="20" beat="4.5" duration="0.5" drum="conga1"/>
+
+        <note measure="21" beat="1" duration="2" drum="deepkick"/>
+        <note measure="21" beat="3" duration="2" drum="ride"/>
+
+        <note measure="22" beat="1" duration="2" drum="deepkick"/>
+        <note measure="22" beat="3" duration="2" drum="ride"/>
+        <note measure="22" beat="4" duration="1" drum="cuica1"/>
+
+        <note measure="23" beat="1" duration="2" drum="deepkick"/>
+        <note measure="23" beat="3" duration="2" drum="ride"/>
+
+        <note measure="24" beat="1" duration="2" drum="deepkick"/>
+        <note measure="24" beat="3" duration="2" drum="ride"/>
+        <note measure="24" beat="4" duration="1" drum="cuica1"/>
+
+        <note measure="25" beat="1" duration="1" drum="kick"/>
+        <note measure="25" beat="3" duration="1" drum="kick"/>
+        <note measure="25" beat="2" duration="1" drum="snare"/>
+        <note measure="25" beat="4" duration="1" drum="snare"/>
+        <note measure="25" beat="1" duration="0.5" drum="openhihat"/>
+        <note measure="25" beat="2" duration="0.5" drum="openhihat"/>
+        <note measure="25" beat="3" duration="0.5" drum="openhihat"/>
+        <note measure="25" beat="4" duration="0.5" drum="openhihat"/>
+        <note measure="25" beat="1" duration="2" drum="cymbal"/>
+
+        <note measure="26" beat="1" duration="1" drum="kick"/>
+        <note measure="26" beat="3" duration="1" drum="kick"/>
+        <note measure="26" beat="2" duration="1" drum="snare"/>
+        <note measure="26" beat="4" duration="1" drum="snare"/>
+        <note measure="26" beat="1" duration="0.5" drum="openhihat"/>
+        <note measure="26" beat="2" duration="0.5" drum="openhihat"/>
+        <note measure="26" beat="3" duration="0.5" drum="openhihat"/>
+        <note measure="26" beat="4" duration="0.5" drum="openhihat"/>
+
+        <note measure="27" beat="1" duration="1" drum="kick"/>
+        <note measure="27" beat="3" duration="1" drum="kick"/>
+        <note measure="27" beat="2" duration="1" drum="snare"/>
+        <note measure="27" beat="4" duration="1" drum="snare"/>
+        <note measure="27" beat="1" duration="0.5" drum="openhihat"/>
+        <note measure="27" beat="2" duration="0.5" drum="openhihat"/>
+        <note measure="27" beat="3" duration="0.5" drum="openhihat"/>
+        <note measure="27" beat="4" duration="0.5" drum="openhihat"/>
+        <note measure="27" beat="2.5" duration="0.5" drum="cowbell"/>
+
+        <note measure="28" beat="1" duration="1" drum="kick"/>
+        <note measure="28" beat="3" duration="1" drum="kick"/>
+        <note measure="28" beat="2" duration="1" drum="snare"/>
+        <note measure="28" beat="4" duration="1" drum="snare"/>
+        <note measure="28" beat="1" duration="0.5" drum="openhihat"/>
+        <note measure="28" beat="2" duration="0.5" drum="openhihat"/>
+        <note measure="28" beat="3" duration="0.5" drum="openhihat"/>
+        <note measure="28" beat="4" duration="0.5" drum="openhihat"/>
+        <note measure="28" beat="2.5" duration="0.5" drum="cowbell"/>
+
+        <note measure="29" beat="1" duration="1" drum="kick"/>
+        <note measure="29" beat="3" duration="1" drum="kick"/>
+        <note measure="29" beat="2" duration="1" drum="snare"/>
+        <note measure="29" beat="4" duration="1" drum="snare"/>
+        <note measure="29" beat="1" duration="0.5" drum="openhihat"/>
+        <note measure="29" beat="2" duration="0.5" drum="openhihat"/>
+        <note measure="29" beat="3" duration="0.5" drum="openhihat"/>
+        <note measure="29" beat="4" duration="0.5" drum="openhihat"/>
+        <note measure="29" beat="1" duration="2" drum="cymbal"/>
+        <note measure="29" beat="3" duration="0.5" drum="tom1"/>
+        <note measure="29" beat="3.5" duration="0.5" drum="tom2"/>
+        <note measure="29" beat="4" duration="0.5" drum="tom3"/>
+        <note measure="29" beat="4.5" duration="0.5" drum="tom4"/>
+
+        <note measure="30" beat="1" duration="1" drum="kick"/>
+        <note measure="30" beat="3" duration="1" drum="kick"/>
+        <note measure="30" beat="2" duration="1" drum="snare"/>
+        <note measure="30" beat="4" duration="1" drum="snare"/>
+        <note measure="30" beat="1" duration="0.5" drum="openhihat"/>
+        <note measure="30" beat="2" duration="0.5" drum="openhihat"/>
+        <note measure="30" beat="3" duration="0.5" drum="openhihat"/>
+        <note measure="30" beat="4" duration="0.5" drum="openhihat"/>
+        <note measure="30" beat="3" duration="2" drum="ride"/>
+        <note measure="30" beat="4" duration="1" drum="sticks"/>
+    </instrument>
+    <instrument instrument="ToneInstrument">
+        <note measure="1" beat="1" duration="2" note="C3"/>
+
+        <note measure="2" beat="1" duration="2" note="C3"/>
+
+        <note measure="3" beat="1" duration="2" note="C3"/>
+
+        <note measure="4" beat="1" duration="2" note="C3"/>
+
+        <note measure="5" beat="1" duration="1" note="A2"/>
+        <note measure="5" beat="3" duration="1" note="A2"/>
+
+        <note measure="6" beat="1" duration="1" note="A2"/>
+        <note measure="6" beat="3" duration="1" note="A2"/>
+
+        <note measure="7" beat="1" duration="1" note="A2"/>
+        <note measure="7" beat="3" duration="1" note="A2"/>
+
+        <note measure="8" beat="1" duration="1" note="A2"/>
+        <note measure="8" beat="3" duration="1" note="A2"/>
+
+        <note measure="9" beat="1" duration="1" note="F2"/>
+        <note measure="9" beat="3" duration="1" note="F2"/>
+
+        <note measure="10" beat="1" duration="1" note="F2"/>
+        <note measure="10" beat="3" duration="1" note="F2"/>
+
+        <note measure="11" beat="1" duration="1" note="F2"/>
+        <note measure="11" beat="3" duration="1" note="F2"/>
+
+        <note measure="12" beat="1" duration="1" note="F2"/>
+        <note measure="12" beat="3" duration="1" note="F2"/>
+
+        <note measure="13" beat="1" duration="1" note="G2"/>
+        <note measure="13" beat="3" duration="1" note="G2"/>
+
+        <note measure="14" beat="1" duration="1" note="G2"/>
+        <note measure="14" beat="3" duration="1" note="G2"/>
+
+        <note measure="15" beat="1" duration="1" note="G2"/>
+        <note measure="15" beat="3" duration="1" note="G2"/>
+
+        <note measure="16" beat="1" duration="1" note="G2"/>
+        <note measure="16" beat="3" duration="1" note="G2"/>
+
+        <note measure="17" beat="1" duration="1" note="C3"/>
+        <note measure="17" beat="3" duration="1" note="C3"/>
+
+        <note measure="18" beat="1" duration="1" note="C3"/>
+        <note measure="18" beat="3" duration="1" note="C3"/>
+
+        <note measure="19" beat="1" duration="1" note="C3"/>
+        <note measure="19" beat="3" duration="1" note="C3"/>
+
+        <note measure="20" beat="1" duration="1" note="C3"/>
+        <note measure="20" beat="3" duration="1" note="C3"/>
+
+        <note measure="21" beat="1" duration="2" note="A2"/>
+
+        <note measure="22" beat="1" duration="2" note="A2"/>
+
+        <note measure="23" beat="1" duration="2" note="A2"/>
+
+        <note measure="24" beat="1" duration="2" note="A2"/>
+
+        <note measure="25" beat="1" duration="1" note="C3"/>
+        <note measure="25" beat="3" duration="1" note="C3"/>
+
+        <note measure="26" beat="1" duration="1" note="C3"/>
+        <note measure="26" beat="3" duration="1" note="C3"/>
+
+        <note measure="27" beat="1" duration="1" note="A2"/>
+        <note measure="27" beat="3" duration="1" note="A2"/>
+
+        <note measure="28" beat="1" duration="1" note="A2"/>
+        <note measure="28" beat="3" duration="1" note="A2"/>
+
+        <note measure="29" beat="1" duration="1" note="F2"/>
+        <note measure="29" beat="3" duration="1" note="F2"/>
+
+        <note measure="30" beat="1" duration="1" note="F2"/>
+        <note measure="30" beat="3" duration="1" note="F2"/>
+
+        <note measure="5" beat="1" duration="1" note="E4" ring="0.12" flange="0.16"/>
+        <note measure="5" beat="2" duration="1" note="G4"/>
+        <note measure="5" beat="3" duration="1" note="C5" flange="0.20"/>
+        <note measure="5" beat="4" duration="1" note="G4"/>
+
+        <note measure="6" beat="1" duration="1" note="E4" ring="0" flange="0.16"/>
+        <note measure="6" beat="2" duration="1" note="G4"/>
+        <note measure="6" beat="3" duration="1" note="C5" flange="0.20"/>
+        <note measure="6" beat="4" duration="1" note="G4"/>
+
+        <note measure="7" beat="1" duration="1" note="E4" ring="0" flange="0.16"/>
+        <note measure="7" beat="2" duration="1" note="G4"/>
+        <note measure="7" beat="3" duration="1" note="C5" flange="0.20"/>
+        <note measure="7" beat="4" duration="1" note="G4"/>
+
+        <note measure="8" beat="1" duration="1" note="E4" ring="0" flange="0.16"/>
+        <note measure="8" beat="2" duration="1" note="G4"/>
+        <note measure="8" beat="3" duration="1" note="C5" flange="0.20"/>
+        <note measure="8" beat="4" duration="1" note="G4"/>
+
+        <note measure="9" beat="1" duration="1" note="C4" ring="0.12" flange="0.16"/>
+        <note measure="9" beat="2" duration="1" note="E4"/>
+        <note measure="9" beat="3" duration="1" note="A4" flange="0.20"/>
+        <note measure="9" beat="4" duration="1" note="E4"/>
+
+        <note measure="10" beat="1" duration="1" note="C4" ring="0" flange="0.16"/>
+        <note measure="10" beat="2" duration="1" note="E4"/>
+        <note measure="10" beat="3" duration="1" note="A4" flange="0.20"/>
+        <note measure="10" beat="4" duration="1" note="E4"/>
+
+        <note measure="11" beat="1" duration="1" note="C4" ring="0" flange="0.16"/>
+        <note measure="11" beat="2" duration="1" note="E4"/>
+        <note measure="11" beat="3" duration="1" note="A4" flange="0.20"/>
+        <note measure="11" beat="4" duration="1" note="E4"/>
+
+        <note measure="12" beat="1" duration="1" note="C4" ring="0" flange="0.16"/>
+        <note measure="12" beat="2" duration="1" note="E4"/>
+        <note measure="12" beat="3" duration="1" note="A4" flange="0.20"/>
+        <note measure="12" beat="4" duration="1" note="E4"/>
+
+        <note measure="13" beat="1" duration="1" note="A3" ring="0.12" flange="0.16"/>
+        <note measure="13" beat="2" duration="1" note="C4"/>
+        <note measure="13" beat="3" duration="1" note="F4" flange="0.20"/>
+        <note measure="13" beat="4" duration="1" note="C4"/>
+
+        <note measure="14" beat="1" duration="1" note="A3" ring="0" flange="0.16"/>
+        <note measure="14" beat="2" duration="1" note="C4"/>
+        <note measure="14" beat="3" duration="1" note="F4" flange="0.20"/>
+        <note measure="14" beat="4" duration="1" note="C4"/>
+
+        <note measure="15" beat="1" duration="1" note="A3" ring="0" flange="0.16"/>
+        <note measure="15" beat="2" duration="1" note="C4"/>
+        <note measure="15" beat="3" duration="1" note="F4" flange="0.20"/>
+        <note measure="15" beat="4" duration="1" note="C4"/>
+
+        <note measure="16" beat="1" duration="1" note="A3" ring="0" flange="0.16"/>
+        <note measure="16" beat="2" duration="1" note="C4"/>
+        <note measure="16" beat="3" duration="1" note="F4" flange="0.20"/>
+        <note measure="16" beat="4" duration="1" note="C4"/>
+
+        <note measure="17" beat="1" duration="1" note="B3" ring="0.12" flange="0.16"/>
+        <note measure="17" beat="2" duration="1" note="D4"/>
+        <note measure="17" beat="3" duration="1" note="G4" flange="0.20"/>
+        <note measure="17" beat="4" duration="1" note="D4"/>
+
+        <note measure="18" beat="1" duration="1" note="B3" ring="0" flange="0.16"/>
+        <note measure="18" beat="2" duration="1" note="D4"/>
+        <note measure="18" beat="3" duration="1" note="G4" flange="0.20"/>
+        <note measure="18" beat="4" duration="1" note="D4"/>
+
+        <note measure="19" beat="1" duration="1" note="B3" ring="0" flange="0.16"/>
+        <note measure="19" beat="2" duration="1" note="D4"/>
+        <note measure="19" beat="3" duration="1" note="G4" flange="0.20"/>
+        <note measure="19" beat="4" duration="1" note="D4"/>
+
+        <note measure="20" beat="1" duration="1" note="B3" ring="0" flange="0.16"/>
+        <note measure="20" beat="2" duration="1" note="D4"/>
+        <note measure="20" beat="3" duration="1" note="G4" flange="0.20"/>
+        <note measure="20" beat="4" duration="1" note="D4"/>
+
+        <note measure="21" beat="1" duration="2" note="C5" flange="0.18"/>
+
+        <note measure="22" beat="1" duration="2" note="C5" flange="0.18"/>
+
+        <note measure="23" beat="1" duration="2" note="A4" flange="0.18"/>
+
+        <note measure="24" beat="1" duration="2" note="A4" flange="0.18"/>
+
+        <note measure="25" beat="1" duration="1" note="A3" flange="0.18"/>
+        <note measure="25" beat="2" duration="1" note="C4"/>
+        <note measure="25" beat="3" duration="1" note="F4" ring="0.12"/>
+        <note measure="25" beat="4" duration="1" note="C4"/>
+
+        <note measure="26" beat="1" duration="1" note="A3" flange="0.18"/>
+        <note measure="26" beat="2" duration="1" note="C4"/>
+        <note measure="26" beat="3" duration="1" note="F4" ring="0.12"/>
+        <note measure="26" beat="4" duration="1" note="C4"/>
+
+        <note measure="27" beat="1" duration="1" note="B3" flange="0.18"/>
+        <note measure="27" beat="2" duration="1" note="D4"/>
+        <note measure="27" beat="3" duration="1" note="G4" ring="0.12"/>
+        <note measure="27" beat="4" duration="1" note="D4"/>
+
+        <note measure="28" beat="1" duration="1" note="B3" flange="0.18"/>
+        <note measure="28" beat="2" duration="1" note="D4"/>
+        <note measure="28" beat="3" duration="1" note="G4" ring="0.12"/>
+        <note measure="28" beat="4" duration="1" note="D4"/>
+
+        <note measure="29" beat="1" duration="1" note="E4" flange="0.18"/>
+        <note measure="29" beat="2" duration="1" note="G4"/>
+        <note measure="29" beat="3" duration="1" note="C5" ring="0.12"/>
+        <note measure="29" beat="4" duration="1" note="G4"/>
+
+        <note measure="30" beat="1" duration="1" note="E4" flange="0.18"/>
+        <note measure="30" beat="2" duration="1" note="G4"/>
+        <note measure="30" beat="3" duration="1" note="C5" ring="0.12"/>
+        <note measure="30" beat="4" duration="1" note="G4"/>
+    </instrument>
+</score>

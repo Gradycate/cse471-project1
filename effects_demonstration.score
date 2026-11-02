@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+   <instrument instrument="ToneInstrument">
+      <note measure="1" beat="1" duration="4" note="A4" dry="1.0"/>
+      <note measure="2" beat="1" duration="4" note="C5" dry="1.0"/>
+      <note measure="3" beat="1" duration="4" note="A4" dry="0.0" ring="1.0"/>
+      <note measure="4" beat="1" duration="4" note="C5" dry="0.0" ring="1.0"/>
+      <note measure="5" beat="1" duration="4" note="A4" dry="0.0" gate="1.0"/>
+      <note measure="6" beat="1" duration="4" note="C5" dry="0.0" gate="1.0"/>
+      <note measure="7" beat="1" duration="4" note="A4" dry="0.0" limit="1.0"/>
+      <note measure="8" beat="1" duration="4" note="C5" dry="0.0" limit="1.0"/>
+      <note measure="9" beat="1" duration="4" note="A4" dry="0.0" flanger="1.0"/>
+      <note measure="10" beat="1" duration="4" note="C5" dry="0.0" flanger="1.0"/>
+      <note measure="11" beat="1" duration="4" note="A4" dry="0.2" ring="0.3" gate="0.2" limit="0.2" flanger="0.3"/>
+      <note measure="12" beat="1" duration="4" note="C5" dry="0.2" ring="0.3" gate="0.2" limit="0.2" flanger="0.3"/>
+   </instrument>
+</score>
