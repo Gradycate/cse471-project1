@@ -5,8 +5,42 @@
     <body>
         <h1>The Drum Synthesizer</h1>
         <a href="index.html">Home Page</a>
+        <h2>Component Owner:</h2>
+        <p>Grady Cate</p>
+        <h2>Description:</h2>
         <p>
-            Put the drum synthesizer descriptions here.
+            The drum synthesizer generates 20 perscussion sounds, 19 of which 
+            have been created using .wav sample playback, and 1 synthetically 
+            produced. XML score files provide the note instructions to these 
+            instruments. Each note decides what drum or adjacent percussion 
+            is being played, the duration of it being played, and the pitch. 
+            The SetNote() function then interprets said attributes and creates
+            the sound expected.
+        </p>
+        <p>
+            Prerecorded and downloaded .wav files are loaded into tables. Then,
+            the Generate() function reads each frame from the chosen table.
+            The speed at which this is played back is controlled by a pitch
+            multiplier. Increasing this raises the pitch, where as decreasing
+            lowers it. As for polyphony, the synthesizer supports the ability 
+            for multiple drum notes to be played over one another and still be
+            noticeable and heard. Each note creates different instrument
+            instances, allowing this to happen.
+        </p>
+        <p>
+            The kick is created through synthesization and is not prerecorded
+            as are the other instruments. It is created using a sine wave that
+            exponentially decreases amplitude and frequency. This reproduces
+            the sound of a kick drum. 
+        </p>
+        <h2>Grading Rubric</h2>
+        <p>
+            10 - Waveform playback from tables          (Satisfied)
+            20 - Envelope generation                    (Satisfied)
+            30 - Polyphony                              (Satisfied)
+            35 - Varying pitch playback from tables     (Satisfied)
+            40 - At least 20 distinct drum sounds       (Satisfied)
+            50 - Synthesized drum sound                 (Satisfied)
         </p>
     </body>
 </html>
